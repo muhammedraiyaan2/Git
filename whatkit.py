@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg("+919626609028","Dais",13,43)
+pywhatkit.sendwhatmsg("+919826592759","Hello!",13,43)
